@@ -1,4 +1,4 @@
 Favorite Things:
--Dogs
--Donuts
--Chicago Cubs
+- Dogs
+- Donuts
+- Chicago Cubs
